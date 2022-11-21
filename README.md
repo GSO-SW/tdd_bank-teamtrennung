@@ -1,12 +1,12 @@
 # Bank
 Beachten Sie den Reiter Issues in GitHub. Können Sie das Issue mit einem Pull-Request schließen?
  
- -1.1
+- 1.1
 
 Was sind User Stories:
 User Stories sind einfach gesehen die Anforderungen der Kunden.
 
-1.2
+- 1.2
 - Wer fordert etwas an? (Rolle)
     Der Anforderer. (meist der spätere Nutzer)
     
@@ -34,14 +34,17 @@ User Stories sind einfach gesehen die Anforderungen der Kunden.
     6. Testable
         - Jede Story muss getestet werden. Mit dem Test wird die Umsetzung festgestellt.
 
-1.3
--ist eine Checkliste mit Qualitätskriterien, die beschreibt, welche Aspekte erfüllt sein müssen, damit die Erstellung eines Backlog Items,
+- 1.3
+
+- Was ist definition of done
+
+- ist eine Checkliste mit Qualitätskriterien, die beschreibt, welche Aspekte erfüllt sein müssen, damit die Erstellung eines Backlog Items,
  eines Features oder einer User Story als abgeschlossen betrachtet werden kann
 
--2.1 Was sind UnitTests: Mit UnitTests checkt man ob der Code der geschrieben wurde funktoniert würd was er bestimmt wurde.
+- 2.1 Was sind UnitTests: Mit UnitTests checkt man ob der Code der geschrieben wurde funktoniert würd was er bestimmt wurde.
 
 
-2.2
+- 2.2
 
 - Schritt 1 (Zu testende Klasse als öffentlich deklarieren)    •    Projektmappen-Explorer: zu testende Klasse, z.B. Rechteck.cs öffnen
 
@@ -55,3 +58,6 @@ User Stories sind einfach gesehen die Anforderungen der Kunden.
 
 - Schritt 6 (Tests ausführen)    •    Menü: TEST  Fenster  Test-Explorer    •    Fenster Test-Explorer: Alle ausführen
 
+- 2.3
+
+- Was ist Definition of done.
